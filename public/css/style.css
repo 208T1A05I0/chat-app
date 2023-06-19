@@ -28,7 +28,7 @@ a {
 .btn {
   cursor: pointer;
   padding: 5px 21px;
-  background: #ef483c;
+  background: #9d2bdf;
   color: #ffffff;
   border: 0;
   font-size: 17px;
@@ -38,7 +38,7 @@ a {
   cursor: pointer;
   border-radius: 15px;
   padding: 5px 21px;
-  background: #ef483c;
+  background: #ec2298;
   color: #ffffff;
   border: 0;
   font-size: 17px;
@@ -48,13 +48,13 @@ a {
 
 .chat-container {
   max-width: 1100px;
-  background: #fff;
+  background: #ffffff;
   margin: 30px auto;
   overflow: hidden;
 }
 
 .chat-header {
-  background: #717171;
+  background: #352cad;
   color: #fff;
   padding: 15px;
   display: flex;
@@ -68,7 +68,7 @@ a {
 }
 
 .chat-sidebar {
-  background: #797979f2;
+  background: #5755f3f2;
   color: #fff;
   padding: 15px 26px 65px;
   overflow-y: scroll;
@@ -98,25 +98,25 @@ a {
 .chat-messages .message {
   padding: 10px;
   margin-bottom: 15px;
-  background-color: #e4e7ff;
+  background-color: #7d8df1;
   border-radius: 7px;
   overflow-wrap: break-word;
 }
 
 .chat-messages .message .meta {
   font-size: 15px;
-  color: #f44336;
+  color: #2805f0;
   opacity: 0.7;
   margin-bottom: 7px;
 }
 
 .chat-messages .message .meta span {
-  color: #777;
+  color: #818cec;
 }
 
 .chat-form-container {
   padding: 20px 30px;
-  background-color: #717171;
+  background-color: #7f7de7;
 }
 
 .chat-form-container form {
@@ -140,12 +140,12 @@ a {
 .join-header {
   text-align: center;
   padding: 20px;
-  background: #717171;
+  background: #b02eec;
 }
 
 .join-main {
   padding: 30px 40px;
-  background: #5a5a5a;
+  background: #db9ceb;
 }
 
 .join-main p {
